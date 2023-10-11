@@ -1,1 +1,1 @@
-Our program takes the user's name (using the user's inputted name) and combines it with another string literal (also inputted by the user).
+Our program takes the user's name (using the user's inputted name) and combines it with another string literal (also inputted by the user). The resulting string's length is printed and it is then converted into Pig latin (the rules for the language were taken from a random website, so maybe they aren't quite right but I coded them up anyway) 
